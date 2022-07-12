@@ -3,6 +3,7 @@
 ## Biografia
 
 ### 5 anos de experiência no desenvolvimento de projetos com o uso de diversas tecnologias, para desenvolvimento web.
+#### Algumas das tecnologias que tenho conhecimentos e/ou já desenvolvi projetos com elas.
 
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
