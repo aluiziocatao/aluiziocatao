@@ -71,6 +71,9 @@
 ## Projetos
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aluiziocatao&repo=aluiziocatao.github.io)](https://github.com/aluiziocatao/aluiziocatao.github.io)
 
+## Linguagens Utilizadas
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?udername=aluiziocatao&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Contatos
 [<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white'>](https://www.linkedin.com/in/aluizio-catao/)
 
